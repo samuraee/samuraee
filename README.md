@@ -14,7 +14,7 @@
 
 [![samuraee/marketpalace](https://github-readme-stats.vercel.app/api/pin/?username=samuraee&repo=marketpalace&theme=dracula)](https://github.com/samuraee/marketpalace)
 [![php-monsters/shaparak](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=shaparak&theme=dracula)](https://github.com/php-monsters/shaparak)
-[![php-monsters/laravel-jalali-date](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=laravel-jalali-date&theme=dracula)](php-monsters/laravel-jalali-date)
+[![php-monsters/laravel-jalali-date](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=laravel-jalali-date&theme=dracula)](https://github.com/php-monsters/laravel-jalali-date)
 
 ### GitHub Stats
 
