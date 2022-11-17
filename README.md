@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, I am Aboozar Ghaffari 👋
 
-<!--
-**samuraee/samuraee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="[https://www.linkedin.com/in/mohammadalavi](https://www.linkedin.com/in/aboozarghaffari/)">
+  <img align="left" alt="Aboozar's LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-512.png" />
+</a>
+<a href="mailto:aboozar.ghf@gmail.com">
+  <img align="left" alt="Aboozar's Email" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
+<br/><br/>
+
+## The projects I am most active about:
+
+[![samuraee/marketpalace](https://github-readme-stats.vercel.app/api/pin/?username=samuraee&repo=marketpalace&theme=dracula)](https://github.com/samuraee/marketpalace)
+[![php-monsters/shaparak](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=shaparak&theme=dracula)](https://github.com/php-monsters/shaparak)
+[![php-monsters/laravel-jalali-date](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=laravel-jalali-date&theme=dracula)](php-monsters/laravel-jalali-date)
+
+### GitHub Stats
+
+[![Aboozar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuraee&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraee&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraee&layout=compact&theme=dracula)](https://git.io/streak-stats)
