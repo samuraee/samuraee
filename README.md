@@ -10,7 +10,7 @@
 </a>
 <br/><br/>
 
-## The projects I am most active about:
+## The opensource projects I am most active about:
 
 [![Legoravel/lego](https://github-readme-stats.vercel.app/api/pin/?username=Legoravel&repo=lego&theme=dracula)](https://github.com/Legoravel/lego)
 [![mustang-framework/mustang](https://github-readme-stats.vercel.app/api/pin/?username=mustang-framework&repo=mustang&theme=dracula)](https://github.com/mustang-framework/mustang)
