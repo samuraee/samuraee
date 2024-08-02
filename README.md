@@ -12,6 +12,7 @@
 
 ## The projects I am most active about:
 
+[![Legoravel/lego](https://github-readme-stats.vercel.app/api/pin/?username=Legoravel&repo=lego&theme=dracula)](https://github.com/Legoravel/lego)
 [![mustang-framework/mustang](https://github-readme-stats.vercel.app/api/pin/?username=mustang-framework&repo=mustang&theme=dracula)](https://github.com/mustang-framework/mustang)
 [![go-monsters/monster](https://github-readme-stats.vercel.app/api/pin/?username=go-monsters&repo=monster&theme=dracula)](https://github.com/go-monsters/monster)
 [![MarketPalace/marketpalace](https://github-readme-stats.vercel.app/api/pin/?username=marketpalace&repo=marketpalace&theme=dracula)](https://github.com/MarketPalace/marketpalace)
