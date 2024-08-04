@@ -12,7 +12,16 @@
 
 ## The opensource projects I am most active about:
 
+<img align="left" alt="Legiravel" width="32px" src="https://avatars.githubusercontent.com/u/153778207?s=48&v=4" />
+
+Legoravel :: The missing piece of the Laravel puzzle (Fully Domain Driven Laravel)
+
+
+
 [![Legoravel/lego](https://github-readme-stats.vercel.app/api/pin/?username=Legoravel&repo=lego&theme=dracula)](https://github.com/Legoravel/lego)
+
+<hr>
+
 [![mustang-framework/mustang](https://github-readme-stats.vercel.app/api/pin/?username=mustang-framework&repo=mustang&theme=dracula)](https://github.com/mustang-framework/mustang)
 [![go-monsters/monster](https://github-readme-stats.vercel.app/api/pin/?username=go-monsters&repo=monster&theme=dracula)](https://github.com/go-monsters/monster)
 [![MarketPalace/marketpalace](https://github-readme-stats.vercel.app/api/pin/?username=marketpalace&repo=marketpalace&theme=dracula)](https://github.com/MarketPalace/marketpalace)
