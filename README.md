@@ -14,7 +14,7 @@
 
 <img align="left" alt="Legiravel" width="32px" src="https://avatars.githubusercontent.com/u/153778207?s=48&v=4" />
 
-Legoravel :: The missing piece of the Laravel puzzle (Fully Domain Driven Laravel)
+Legoravel:: The missing piece of the Laravel puzzle (Fully Domain Driven Laravel)
 
 
 
@@ -31,9 +31,5 @@ Legoravel :: The missing piece of the Laravel puzzle (Fully Domain Driven Larave
 
 ### GitHub Stats
 
-[![Aboozar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuraee&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraee&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraee&layout=compact&theme=dracula)](https://git.io/streak-stats)
-
-<br>
-
-<a href="https://github.com/samuraee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraee&langs_count=10&title_color=6e6e6e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" /></a>
+[![Aboozar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuraee&show_icons=true&theme=github-dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraee&layout=compact&theme=github-compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraee&layout=compact&theme=github-compact)](https://git.io/streak-stats)
