@@ -26,8 +26,10 @@ Legoravel:: The missing piece of the Laravel puzzle (Fully Domain Driven Laravel
 [![go-monsters/monster](https://github-readme-stats.vercel.app/api/pin/?username=go-monsters&repo=monster&theme=dracula)](https://github.com/go-monsters/monster)
 [![MarketPalace/marketpalace](https://github-readme-stats.vercel.app/api/pin/?username=marketpalace&repo=marketpalace&theme=dracula)](https://github.com/MarketPalace/marketpalace)
 [![php-monsters/shaparak](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=shaparak&theme=dracula)](https://github.com/php-monsters/shaparak)
-[![php-monsters/laravel-jalali-date](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=laravel-jalali-date&theme=dracula)](https://github.com/php-monsters/laravel-jalali-date)
+[![php-monsters/laravel-sass-subscription](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=laravel-sass-subscription&theme=dracula)](https://github.com/php-monsters/laravel-sass-subscription)
 [![php-monsters/laravel-online-payment](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=laravel-online-payment&theme=dracula)](https://github.com/php-monsters/laravel-online-payment)
+[![php-monsters/laravel-jalali-date](https://github-readme-stats.vercel.app/api/pin/?username=php-monsters&repo=laravel-jalali-date&theme=dracula)](https://github.com/php-monsters/laravel-jalali-date)
+
 
 ### GitHub Stats
 
