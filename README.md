@@ -1,3 +1,12 @@
+```
+███████╗ █████╗ ███╗   ███╗██╗   ██╗██████╗  █████╗ ███████╗███████╗
+██╔════╝██╔══██╗████╗ ████║██║   ██║██╔══██╗██╔══██╗██╔════╝██╔════╝
+███████╗███████║██╔████╔██║██║   ██║██████╔╝███████║█████╗  █████╗  
+╚════██║██╔══██║██║╚██╔╝██║██║   ██║██╔══██╗██╔══██║██╔══╝  ██╔══╝  
+███████║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║███████╗███████╗
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
+
 ## Hi, I am Aboozar Ghaffari 👋
 
  
@@ -34,4 +43,3 @@ Legoravel:: The missing piece of the Laravel puzzle (Fully Domain Driven Laravel
 ### GitHub Stats
 
 [![Aboozar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuraee&show_icons=true&theme=github-dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraee&layout=compact&theme=github-compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraee&layout=compact&theme=github-compact)](https://git.io/streak-stats)
